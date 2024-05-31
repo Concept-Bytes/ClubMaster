@@ -15,6 +15,7 @@ Step-up Converter (to power the Arduino)
 3D-printed Mount (design available in the repository)
 # Getting Started
 ## Hardware Setup
+Reccomended board: Arduino Nano RP2040 (Has the built-in IMU)
 Assemble Components: Connect the Arduino Nano, battery, and step-up converter according to the circuit diagram.
 Install in Golf Club: Place the assembled components inside the 3D-printed mount and secure it in the golf club.
 ## Software Setup
